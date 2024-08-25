@@ -1,0 +1,40 @@
+/* Write your CSS code here */
+.each-blogitem-li {
+  display: flex;
+  flex-direction: row;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #d3d3d3;
+  border-radius: 10px;
+  margin: 3%;
+}
+.blog-info {
+  display: flex;
+  flex-direction: column;
+  padding-right: 2%;
+}
+.heading {
+  color: #000000;
+  font-size: 28px;
+}
+.user-name {
+  color: #d3d3d3;
+}
+.user-information-container {
+  display: flex;
+  flex-direction: row;
+}
+.main-image {
+  padding: 2%;
+  height: 65%;
+  width: 45%;
+}
+.user-image {
+  height: 48%;
+  width: 18%;
+  border-radius: 40%;
+}
+.item-link 
+{
+  text-decoration: none;
+}

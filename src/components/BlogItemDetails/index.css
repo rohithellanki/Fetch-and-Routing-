@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.main-heading {
+  color: #000000;
+}
+.blog-item-details {
+  display: flex;
+  flex-direction: column;
+}
+.profile-pic-container {
+  display: flex;
+  flex-direction: row;
+}
+.user-image1 {
+  height: 7%;
+  width: 7%;
+  border-radius: 40%;
+}
+.full-image {
+  height: 32vh;
+  padding: 20px;
+  border-radius: 10px;
+}
+.blog-details
+{
+  color:#2f4f4f;
+  padding:20px;
+}
